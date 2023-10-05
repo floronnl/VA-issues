@@ -1,5 +1,5 @@
 # VA-issues
-In dit repository kunnen bugs, andere problemen en wensen neergezet worden.
+In dit repository kunnen bugs, andere problemen en wensen voor de Verspreidingsatlas neergezet worden.
 
 Controleer voordat je een nieuwe issue aanmaakt of een probleem al eerder gemeld is, deze kun je dan upvoten. Geef bij het melden ook aan welke app versie je gebruikt.
 
