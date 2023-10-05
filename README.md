@@ -5,4 +5,4 @@ Controleer voordat je een nieuwe issue aanmaakt of een probleem al eerder gemeld
 
 Om het voor ons makkelijker te maken bugs te vinden en te repareren wordt het op prijs gesteld als er zo veel mogelijk informatie over de bug te geven en indien mogelijk screenshots te plaatsen.
 
-Documentatie is te vinden op: [https://www.floron.nl/meedoen/vera](https://www.verspreidingsatlas.nl/over.aspx#)https://www.verspreidingsatlas.nl/over.aspx#
+Documentatie is te vinden op: [https://www.verspreidingsatlas.nl/over.aspx#]
